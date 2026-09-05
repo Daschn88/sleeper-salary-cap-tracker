@@ -102,12 +102,6 @@ export default function AuctionRoomPage() {
               <Link href="/" className="text-cyan-400 hover:text-cyan-300 text-sm font-semibold">
                 &larr; Back to Cap Dashboard
               </Link>
-		<Link
-  href="/auction"
-  className="bg-emerald-600 hover:bg-emerald-500 text-white font-medium px-4 py-1.5 rounded-lg text-sm transition flex items-center gap-1.5"
->
-  <span>⚡</span> Auction Room &rarr;
-</Link>
             </div>
             <h1 className="text-3xl font-extrabold tracking-tight text-white mt-2 flex items-center gap-3">
               ⚡ Live Concurrent Auction Block
